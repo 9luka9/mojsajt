@@ -1,0 +1,158 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center; 
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.logoiapp {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    gap: 10px; 
+    margin-bottom: 6px; 
+}
+
+h1 {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.aplikacija1 , .aplikacija2 {
+    display: flex;
+    justify-content: center; 
+    gap: 20px; 
+    padding: 10px;
+}
+
+.aplikacija1 img , .aplikacija2 img {
+    width: 550px; 
+    height: auto;
+    border-radius: 8px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+h3 {
+    font-size: 30px;
+    margin-top: 10px;
+    padding: 70px;
+}
+
+.majice1, .majice2 {
+    padding: 5px;
+    display: flex;
+    justify-content: center; 
+    gap: 30px;
+    margin-bottom: 20px; 
+}
+
+.majice1 img, .majice2 img {
+    width: 350px; 
+    height: auto;
+    border-radius: 8px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.fanzin1, .fanzin2 {
+    padding: 5px;
+    display: flex;
+    justify-content: center; 
+    gap: 30px; 
+    margin-bottom: 20px; 
+}
+
+.fanzin1 img, .fanzin2 img {
+    width: 350px; 
+    height: auto;
+    border-radius: 8px; 
+}
+
+.nft {
+    padding: 5px;
+    display: flex;
+    justify-content: center; 
+    gap: 30px; 
+    margin-bottom: 20px; 
+}
+
+.nft img {
+    width: 650px; 
+    height: auto;
+    border-radius: 8px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.tride {
+    padding: 5px;
+    display: flex;
+    justify-content: center; 
+    gap: 30px; 
+    margin-bottom: 20px; 
+}
+
+.tride img {
+    width: 650px; 
+    height: auto;
+    border-radius: 8px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.analogna1 , .analogna2 , .analogna3 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-bottom: 30px;
+    gap: 50px;
+}
+
+.analogna1 img , .analogna2 img , .analogna3 img {
+    height: auto;
+    border-radius: 8px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.modeling1 , .modeling2 , .modeling3 , .modeling4 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-bottom: 30px;
+    gap: 50px;
+}
+
+.modeling1 img , .modeling2 img , .modeling3 img , .modeling4 img {
+    border-radius: 8px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.bend1 , .bend2 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-bottom: 30px;
+    gap: 50px;
+}
+
+.bend1 img , .bend2 img {
+    border-radius: 2px; 
+}
+
+.youtube {
+    font-size: 30px;
+    padding: 40px;
+    margin-bottom: 50px;
+}
+
+.back {
+    width: 1px;
+    height: auto;
+    text-align: left;
+    margin-left: 50px;
+}
